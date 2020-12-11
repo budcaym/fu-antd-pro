@@ -1,6 +1,7 @@
                                                       
 ## 🏹 概述
-  react前端中后台项目ant-design组件微调或修改的组件集合
+React前端中后台项目ant-design组件微调或修改的组件集合
+[![npm version](https://img.shields.io/github/package-json/v/HuiGeGeGitHub/fu-antd-pro)] (https://github.com/HuiGeGeGitHub/fu-antd-pro)
 
 ## 🖇 仓库
     [Git](https://github.com/HuiGeGeGitHub/fu-antd-pro.git)
